@@ -1,0 +1,14 @@
+{
+  "name": "spying_chariot",
+  "version": "1.0.0",
+  "description": "Remote operated cart with a camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-explorer-hat": "git+https://github.com/davidbebb/node-explorer-hat.git"
+  }
+}
